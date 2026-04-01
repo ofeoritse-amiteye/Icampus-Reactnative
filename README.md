@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-iCampus is designed with usability and convenience in mind. The app helps students stay organized, navigate campus easily, and manage their academic lifestyle — all from a single app.
+iCampus is designed with usability and convenience in mind. The app helps students stay organized, navigate campus easily, and manage their academic lifestyle, all from a single app.
 
 ---
 
