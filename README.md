@@ -88,17 +88,6 @@ FIREBASE_STORAGE_BUCKET=your_storage_bucket
 FIREBASE_MESSAGING_SENDER_ID=your_sender_id
 FIREBASE_APP_ID=your_app_id
 ```
-
-> ⚠️ Never commit your `.env` file to version control. Make sure it's listed in `.gitignore`.
-
----
-
-## 📸 Screenshots
-
-> *Add screenshots of your app here — home screen, map view, timetable, meal planner, etc.*
-
----
-
 ## 🎯 Purpose
 
 The goal of iCampus is to centralize key student utilities into a single mobile app, reducing the need for multiple disconnected tools and improving overall productivity on campus.
